@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="colorBase">#FFFFFF</color>
+    <color name="colorFrame">#a6a3a3</color>
+
+    <color name="colorGoogle">#c53929</color>
+    <color name="colorGoogleDark">#831206</color>
+    <color name="colorGoogleLight">#da837a</color>
+
+
+</resources>
